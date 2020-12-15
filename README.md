@@ -16,6 +16,12 @@
 
 
 
+## 推荐
+
++ 【**[优秀网站和工具](https://github.com/520-GH-liuxiaojian/Blog/tree/master/other)**】
+
+
+
 ## 目录
 
 **工欲善其事 必先利其器** 如若想要编写高性能的前端应用程序 那就务必要弄懂浏览器工作原理
@@ -70,12 +76,3 @@
   + 【**[慕课网](https://www.imooc.com/)**】
   + 【**[后盾人教程](https://space.bilibili.com/282190994/)**】
 + **架构课程** [暂未学习]
-
-
-
-## 优秀网站和工具介绍
-
-+ **网站**
-  + [在线压缩 html css js](https://tool.oschina.net/jscompress)
-  + [在线压缩 html css js](https://jsmin.51240.com/)
-+ **工具**
