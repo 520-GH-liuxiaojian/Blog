@@ -28,6 +28,9 @@
 
 ## 推荐
 
++ 【[**优秀网站和工具**](Other/FrontEndEssential.md)】
++ 【[**学习途径**](Other/LearningPath.md)】
+
 
 
 ## 目录
