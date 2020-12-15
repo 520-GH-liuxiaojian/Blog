@@ -18,7 +18,8 @@
 
 ## 推荐
 
-+ 【**[优秀网站和工具](https://github.com/520-GH-liuxiaojian/Blog/tree/master/other)**】
++ 【**[优秀网站和工具](other/Front end essential.md)**】
++ 【**[学习途径](other/learning path.md)**】
 
 
 
@@ -26,7 +27,7 @@
 
 **工欲善其事 必先利其器** 如若想要编写高性能的前端应用程序 那就务必要弄懂浏览器工作原理
 
-+ 【[**浏览器工作原理**]()】
++ 【[**浏览器工作原理**](Browser/README.md)】
 
 + 【**[浏览器执行原理 v8 引擎介绍]()**】
 
@@ -61,18 +62,3 @@
 + 【**[webpack]()**】
 + 【**[React]()**】
 + 【**[TypeScript]()**】
-
-
-
-## 学习途径
-
-+ **理论课程**
-  + 【**[w3school](https://www.w3school.com.cn/)**】
-  + 【**[菜鸟课堂](https://www.runoob.com/)**】
-  + 【**[极客时间](https://time.geekbang.org/)**】
-  + 【**[峰华前端工程师](https://space.bilibili.com/302954484/dynamic)**】
-
-+ **实战课程**
-  + 【**[慕课网](https://www.imooc.com/)**】
-  + 【**[后盾人教程](https://space.bilibili.com/282190994/)**】
-+ **架构课程** [暂未学习]
