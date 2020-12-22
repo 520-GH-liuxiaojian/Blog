@@ -1,6 +1,6 @@
-# Blog![](https://camo.githubusercontent.com/83d3746e5881c1867665223424263d8e604df233d0a11aae0813e0414d433943/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667)
+# Blog![](media/img/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e737667.svg)
 
-<img src="../media/img/wallpaper.jpg" alt="wallpaper" style="zoom:38%;border-radius: 30px;" /> 
+<img src="media/img/wallpaper.jpg" alt="wallpaper" style="zoom:38%;border-radius: 30px;" /> 
 
 
 
@@ -30,6 +30,7 @@
 
 + 【[**优秀网站和工具**](https://github.com/520-GH-liuxiaojian/Blog/blob/master/other/FrontEndEssential.md)】
 + 【[**学习途径**](https://github.com/520-GH-liuxiaojian/Blog/blob/master/other/LearningPath.md)】
++ 【**优秀的特效网页**】
 
 
 
@@ -72,5 +73,17 @@
 + 【**webpack**】
 + 【**React**】
 + 【**TypeScript**】
-+ 【**Eslint**】
++ 【**Eslint Tslint**】项目规范管理工具
++ 【**Jest**】自动化测试
++ 【**git**】代码管理工具 自动化提交
+
+
+
+**图形学**
+
++ 【**webgl**】
+
++ 【**canvas**】
+
++ 【**glsl**】
 
