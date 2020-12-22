@@ -1,4 +1,8 @@
-	# 浏览器的工作原理🌈🌈🌈
+# 浏览器的工作原理🌈🌈🌈
+
+![](https://static.monknow.com/newtab/wallpaper/overview/06f74c78dace4d4d5c6a3a16995a3e4c.jpg)
+
+
 
 **工欲善其事 必先利其器**
 

@@ -1,4 +1,4 @@
-![wallpaper](../media/img/wallpaper (3).jpg)
+![wallpaper](https://static.monknow.com/newtab/wallpaper/overview/0faf24e1b751f9c504b21a67926e5d55.jpg)
 
 - **理论课程**
   - 【**[w3school](https://www.w3school.com.cn/)**】

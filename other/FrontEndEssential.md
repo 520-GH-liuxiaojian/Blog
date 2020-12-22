@@ -1,4 +1,4 @@
-<img src="../media/img/second.jpg" alt="wallpaper" style="zoom:38%;border-radius: 30px;" />
+<img src="https://static.monknow.com/newtab/wallpaper/overview/1ca6e013a83c1c7ddd99908c7be6fe41.jpg" />
 
 ## 前端优秀网站和工具
 
