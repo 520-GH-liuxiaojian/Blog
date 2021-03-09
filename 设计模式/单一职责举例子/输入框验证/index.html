@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <form id="useForm" action="">
+            <input data-validate="checkUsername" type="text" name="username">
+            <input data-validate="checkEmail" type="text" name="email">
+            <input data-validate="checkPassword" type="password" name="email">
+            <button onclick="newCheck()" type="button">提交</button>
+        </form>
+    </div>
+
+    <script>
+        // 传统写法
+        // 不要修改原来的方法 具有一定层次上的风险
+        function check() {
+            let username = document.querySelector('#username').value
+            if(!username || username.length < 6 || username.length >12) {
+                return window.alert('用户名不合法')
+            }
+
+            let email = document.querySelector('#email').value
+            if(!email || email.length < 6 || email.length >12) {
+                return window.alert('邮箱不合法')
+            }
+        }
+
+        function newCheck() {
+            const formElement = window.document.querySelector('#useForm')
+            const inputList = formElement.querySelectorAll('input')
+            for (let index = 0; index < inputList.length; index++) {
+                let validate = inputList[index].dataset['validate']
+                let vaildataFn = window[validate]
+                if(vaildataFn) {
+                    const error = vaildataFn(inputList[index].value)
+                    return error && window.alert(error)
+                }
+            }
+        }
+
+        function checkPassword(inputValue) {
+            return '密码不合法'
+        }
+    </script>
+</body>
+</html>
