@@ -72,7 +72,7 @@
 
 + 【**[webpack](https://github.com/520-GH-liuxiaojian/Blog/tree/master/webpack)**】
 + 【**React**】
-+ 【**TypeScript**】
++ 【**[TypeScript](https://github.com/520-GH-liuxiaojian/Blog/tree/master/typescript)**】
 + 【**Eslint Tslint**】项目规范管理工具
 + 【**Jest**】自动化测试
 + 【**git**】代码管理工具 自动化提交
