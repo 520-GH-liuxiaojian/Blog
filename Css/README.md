@@ -1248,6 +1248,20 @@ border-radius: 左上角  右上角  右下角  左下角;
 
 
 
+#### 使用边框实现三角形
+
+实现思路 就是使用矩形对角线拆分的方式 只显示四角中的一角
+
+```css
+#san {
+  width: 0;
+  border: 25px solid transparent;
+  border-bottom-color: tomato;
+}
+```
+
+
+
 ## 内边距（padding）
 
 padding属性用于设置内边距。  是指 边框与内容之间的距离。
